@@ -1,6 +1,11 @@
 ## Welcome to My Pages
 
-```javascriptfunction test() { console.log("look ma’, no spaces");}```
+```javascript
+function test() 
+{ 
+console.log("look ma’, no spaces");
+}
+```
 
 You can use the [editor on GitHub](https://github.com/lthquy/lthquy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
